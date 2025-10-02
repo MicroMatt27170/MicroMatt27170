@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a Senior Backend Developer at Softalleys, specializing in .NET services, with a strong focus on authentication using OAuth2.0 and OpenID Connect. I am passionate about building robust, modern backend solutions and am actively working on the Softalleys/Softalleys.Utilities public repository, which provides essential tools for CQRS Pattern implementation in C#/.NET projects.
+
+As a Windows enthusiast and dedicated Microsoft fan, I enjoy exploring new technologies, including GitHub Copilot, and am always eager to adopt tools that improve productivity and code quality.
+
+Connect with me on X (Twitter): @micromatt27170
 <!--
 **MicroMatt27170/MicroMatt27170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
